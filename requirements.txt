@@ -1,0 +1,6 @@
+allure-pytest==2.5.2
+pytest==3.9.1
+pytest-rerunfailures==4.2
+selenium==3.141.0
+webdriver-manager==1.8.2
+vyper-config==0.3.3
